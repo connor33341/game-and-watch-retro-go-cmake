@@ -1,0 +1,12 @@
+{
+WSL 2;
+WINDOWS [10 || 11];
+CMake;
+Bash;
+}
+{
+[LINUX || UNIX];
+Docker;
+CMake;
+Bash;
+}
