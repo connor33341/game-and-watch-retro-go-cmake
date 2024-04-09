@@ -1,0 +1,4 @@
+{
+    "bin-output": "output",
+    "cmake-manager": "connor33341/cmake-custom-build"
+}
