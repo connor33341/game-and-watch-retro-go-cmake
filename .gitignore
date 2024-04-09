@@ -2,6 +2,11 @@ build
 
 Drivers
 
+.cmake/custom/.buildrunner
+.cmake/custom/.envbuild
+.cmake/custom/configwriter.pyc
+.cmake/custom/main.py
+
 Makefile
 Core/Inc/rom_info.h
 Core/Inc/githash.h
